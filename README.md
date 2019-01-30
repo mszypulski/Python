@@ -1,3 +1,5 @@
+![Python in a pill](/pics/python-logo.jpg "Python")
+
 # Python in a pill
 written by Mariusz Szypulski
 
