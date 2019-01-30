@@ -1,4 +1,4 @@
-![Python in a pill](python-logo.jpeg "Python")
+![Python in a pill](/python_logo.jpeg "Python")
 
 # Python in a pill
 written by Mariusz Szypulski
