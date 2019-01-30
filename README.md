@@ -43,7 +43,7 @@ IndentationError: expected an indented block
 ## Comments
 
 ```python
-#This is a oneline comment.
+#This is an oneline comment.
 ```
 ```python
 """This is a 
@@ -72,8 +72,12 @@ Mariusz
 ```
 Variables can change type after they have been set.
 ```python
-x = 4 # x is of type int
-x = "Sally" # x is now of type str
+x = 5 # x is of type int
+x = "Mariusz" # x is now of type str
 print(x)
 ```
+Output:
 
+```python
+Mariusz
+```
