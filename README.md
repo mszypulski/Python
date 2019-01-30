@@ -70,6 +70,10 @@ Output:
 3
 Mariusz
 ```
-
-
+Variables can change type after they have been set.
+```python
+x = 4 # x is of type int
+x = "Sally" # x is now of type str
+print(x)
+```
 
