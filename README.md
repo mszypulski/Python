@@ -1,25 +1,54 @@
-# React in a pill
+# Python in a pill
 written by Mariusz Szypulski
 
-## Starting files
+## First program
 
-### index.html
-
-This is just regular HTML, **div id = "app"** is a root element for our app and **index.js** script is bundled app file by webpack.
-
-```javascript
-<!DOCTYPE html>
-<html lang = "en">
-
-   <head>
-      <meta charset = "UTF-8">
-      <title>React App</title>
-   </head>
-
-   <body>
-       <div id = "app"></div>
-       <script src = "index.js"></script>
-   </body>
-
-</html>
+```python
+print("Hello, World!")
 ```
+Output:
+
+```python
+Hello, World!
+```
+
+## Indentations
+
+Python uses indentation to indicate a block of code.
+
+```python
+if 1 > 0:
+  print("One is greater than zero!")
+```
+Output:
+
+```python
+One is greater than zero!
+```
+Python will give you an error if you skip the indentation:
+
+```python
+if 1 > 0:
+print("One is greater than zero!")
+```
+
+Output:
+
+```python
+IndentationError: expected an indented block
+```
+
+## Comments
+
+```python
+#This is a oneline comment.
+```
+```python
+"""This is a 
+multiline comment."""
+```
+
+
+
+
+
