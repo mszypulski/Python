@@ -103,6 +103,7 @@ Mariusz
 ```
 
 Variables can change type after they have been set.
+
 ```python
 x = 5 # x is of type int
 x = "Mariusz" # x is now of type str
@@ -113,5 +114,29 @@ Output:
 ```python
 Mariusz
 ```
+## Standard Data Types
 
+Python has five standard data types:
+
+* Numbers
+* String
+* List
+* Tuple
+* Dictionary
+
+## Python Numbers
+
+Python supports four different numerical types:
+
+* int (signed integers)
+* long (long integers, they can also be represented in octal and hexadecimal)
+* float (floating point real values)
+* complex (complex numbers)
+
+```python
+a = 10 #int
+b = 51924361L #long
+c = 0.0 #float
+d = 3.14j #complex
+```
 
