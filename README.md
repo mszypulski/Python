@@ -126,7 +126,7 @@ Python has five standard data types:
 
 ## Python Numbers
 
-Python supports four different numerical types:
+Python supports three different numerical types:
 
 * int (signed integers)
 * float (floating point real values)
