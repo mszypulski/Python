@@ -81,3 +81,17 @@ Output:
 ```python
 Mariusz
 ```
+
+```python
+a,b,c = 1,2,"Mariusz"
+print(a)
+print(b)
+print(c)
+```
+Output:
+
+```python
+1
+2
+Mariusz
+```
