@@ -70,18 +70,6 @@ Output:
 3
 Mariusz
 ```
-Variables can change type after they have been set.
-```python
-x = 5 # x is of type int
-x = "Mariusz" # x is now of type str
-print(x)
-```
-Output:
-
-```python
-Mariusz
-```
-
 ```python
 a,b,c = 1,2,"Mariusz"
 print(a)
@@ -95,3 +83,17 @@ Output:
 2
 Mariusz
 ```
+
+Variables can change type after they have been set.
+```python
+x = 5 # x is of type int
+x = "Mariusz" # x is now of type str
+print(x)
+```
+Output:
+
+```python
+Mariusz
+```
+
+
