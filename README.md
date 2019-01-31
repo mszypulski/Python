@@ -129,13 +129,11 @@ Python has five standard data types:
 Python supports four different numerical types:
 
 * int (signed integers)
-* long (long integers, they can also be represented in octal and hexadecimal)
 * float (floating point real values)
 * complex (complex numbers)
 
 ```python
 a = 10 #int
-b = 51924361L #long
 c = 0.0 #float
 d = 3.14j #complex
 ```
