@@ -70,6 +70,24 @@ Output:
 3
 Mariusz
 ```
+Python allows you to assign a single value to several variables simultaneously. 
+
+```python
+x = b = c = 1
+print(a)
+print(b)
+print(c)
+```
+Output:
+
+```python
+1
+1
+1
+```
+
+You can also assign multiple objects to multiple variables. 
+
 ```python
 a,b,c = 1,2,"Mariusz"
 print(a)
