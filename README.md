@@ -204,3 +204,15 @@ Hello World!Hello World!
 Hello World!TEST
 12
 ```
+## Operators
+
+Arithmetic Operators
+```python
+x + y          # Addition +
+x - y          # Substraction -
+x * y          # Multiplication *
+x / y          # Division /
+x % y          # Modulus %
+x ** y         # Exponentiation **
+x // y         # Floor division //
+```
