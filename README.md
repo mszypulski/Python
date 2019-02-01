@@ -218,7 +218,7 @@ x // y         # Floor division //
 ```
 Assignment Operators
 ```python
-x = 5	     # x = 5	
+x = 5       # x = 5	
 x += 3	    # x = x + 3	
 x -= 3	    # x = x - 3	
 x *= 3	    # x = x * 3	
@@ -249,6 +249,6 @@ not   # Reverse the result, returns False if the result is true not(x < 5 and x 
 ```
 Identity Operators
 ```python
-is  # Returns true if both variables are the same object x is y	
+is      # Returns true if both variables are the same object x is y	
 is not  # Returns true if both variables are not the same object x is not y
 ```
