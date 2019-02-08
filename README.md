@@ -318,3 +318,18 @@ Output:
 ```python
 {'brand': 'Ford', 'model': 'Mustang', 'year': 1964}
 ```
+
+### If...Else
+If statement.
+
+```python
+a = 33
+b = 200
+if b > a:
+  print("b is greater than a")
+```
+Output:
+
+```python
+b is greater than a
+```
