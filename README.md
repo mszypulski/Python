@@ -278,3 +278,15 @@ Output:
 ```python
 ['apple', 'banana', 'cherry']
 ```
+### Tuples
+A tuple is a collection which is ordered and unchangeable.
+
+```python
+thistuple = ("apple", "banana", "cherry")
+print(thistuple)
+```
+Output:
+
+```python
+('apple', 'banana', 'cherry')
+```
