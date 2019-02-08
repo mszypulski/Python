@@ -290,3 +290,15 @@ Output:
 ```python
 ('apple', 'banana', 'cherry')
 ```
+### Sets
+A set is a collection which is unordered and unindexed.
+
+```python
+thisset = {"apple", "banana", "cherry"}
+print(thisset)
+```
+Output:
+
+```python
+{'apple', 'banana', 'cherry'}
+```
