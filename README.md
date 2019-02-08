@@ -302,3 +302,19 @@ Output:
 ```python
 {'apple', 'banana', 'cherry'}
 ```
+### Dictionaries
+A dictionary is a collection which is unordered, changeable and indexed.
+
+```python
+thisdict =	{
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+print(thisdict)
+```
+Output:
+
+```python
+{'brand': 'Ford', 'model': 'Mustang', 'year': 1964}
+```
