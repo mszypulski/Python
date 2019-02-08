@@ -266,3 +266,15 @@ Bitwise Operators
 <<    # Zero fill left shift	Shift left by pushing zeros in from the right and let the leftmost bits fall off
 >>    # Signed right shift	Shift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off
 ```
+### Lists
+A list is a collection which is ordered and changeable.
+
+```python
+thislist = ["apple", "banana", "cherry"]
+print(thislist)
+```
+Output:
+
+```python
+['apple', 'banana', 'cherry']
+```
