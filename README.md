@@ -423,3 +423,20 @@ Output:
 4
 5
 ```
+### Break
+
+```python
+i = 1
+while i < 6:
+  print(i)
+  if (i == 3):
+    break
+  i += 1
+ ```
+ Output:
+
+```python
+1
+2
+3
+```
