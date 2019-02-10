@@ -333,3 +333,50 @@ Output:
 ```python
 b is greater than a
 ```
+Elif
+
+```python
+a = 33
+b = 33
+if b > a:
+  print("b is greater than a")
+elif a == b:
+  print("a and b are equal")
+```
+Output:
+
+```python
+a and b are equal
+```
+
+Else
+
+```python
+a = 200
+b = 33
+if b > a:
+  print("b is greater than a")
+elif a == b:
+  print("a and b are equal")
+else:
+  print("a is greater than b")
+```
+Output:
+
+```python
+a is greater than b
+```
+
+```python
+a = 200
+b = 33
+if b > a:
+  print("b is greater than a")
+else:
+  print("b is not greater than a")
+```
+Output:
+
+```python
+b is not greater than a
+```
