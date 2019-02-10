@@ -392,6 +392,8 @@ Output:
 ```python
 B
 ```
+
+Multiple else
 ```python
 a = 330
 b = 330
