@@ -406,3 +406,20 @@ Output:
 ```python
 =
 ```
+### While Loop
+Print i as long as i is less than 6:
+```python
+i = 1
+while i < 6:
+  print(i)
+  i += 1
+```
+Output:
+
+```python
+1
+2
+3
+4
+5
+```
