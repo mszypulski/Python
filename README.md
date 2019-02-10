@@ -319,7 +319,7 @@ Output:
 {'brand': 'Ford', 'model': 'Mustang', 'year': 1964}
 ```
 
-### If...Else
+### If
 If statement.
 
 ```python
@@ -333,7 +333,7 @@ Output:
 ```python
 b is greater than a
 ```
-Elif
+### Elif
 
 ```python
 a = 33
@@ -349,7 +349,7 @@ Output:
 a and b are equal
 ```
 
-Else
+### Else
 
 ```python
 a = 200
