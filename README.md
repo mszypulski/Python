@@ -441,3 +441,23 @@ while i < 6:
 2
 3
 ```
+### Continue Statement
+
+Continue to the next iteration if i is 3:
+```python
+i = 0
+while i < 6:
+  i += 1 
+  if i == 3:
+    continue
+  print(i)
+ ```
+ Output:
+
+```python
+1
+2
+4
+5
+6
+```
