@@ -380,3 +380,27 @@ Output:
 ```python
 b is not greater than a
 ```
+### Short If ... else
+```python
+a = 2
+b = 330
+
+print("A") if a > b else print("B")
+```
+Output:
+
+```python
+B
+```
+```python
+a = 330
+b = 330
+
+print("A") if a > b else print("=") if a == b else print("B")
+
+```
+Output:
+
+```python
+=
+```
