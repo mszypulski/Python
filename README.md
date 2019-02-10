@@ -423,8 +423,9 @@ Output:
 4
 5
 ```
-### Break
+### Break Statement
 
+With the break statement we can stop the loop even if the while condition is true:
 ```python
 i = 1
 while i < 6:
